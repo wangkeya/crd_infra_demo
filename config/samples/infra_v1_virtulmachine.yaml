@@ -1,0 +1,6 @@
+apiVersion: infra.sealyun.com/v1
+kind: VirtulMachine
+metadata:
+  name: virtulmachine-sample
+spec:
+  # TODO(user): Add fields here
