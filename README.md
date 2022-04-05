@@ -42,8 +42,6 @@ docker.io/kubesphere/kube-rbac-proxy:v0.11.0
 ```makefile
 
 # 修改后
-docker.io/kubesphere/kube-rbac-proxy:v0.11.0
-
 IMG ?= docker.io/wangkeya/controller:latest
 ```
 
@@ -59,7 +57,7 @@ make deploy
 ```
 
 
-## 查看修改
+## 查看效果
 ![img.png](img.png)
 
 
